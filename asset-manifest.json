@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/json-svno-converter/static/css/main.88b23052.css",
+    "main.js": "/json-svno-converter/static/js/main.c6a5cf28.js",
+    "index.html": "/json-svno-converter/index.html",
+    "main.88b23052.css.map": "/json-svno-converter/static/css/main.88b23052.css.map",
+    "main.c6a5cf28.js.map": "/json-svno-converter/static/js/main.c6a5cf28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b23052.css",
+    "static/js/main.c6a5cf28.js"
+  ]
+}
